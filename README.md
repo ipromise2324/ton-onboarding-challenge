@@ -3,7 +3,8 @@
 Here you can become a true TVM Developer on the most advanced asynchronous blockchain in the world, The Open Network (TON). 
 
 You can prove your talent using the most ancient and essential way in blockchains, starting from grandpa Bitcoin! As the first miners in TON, you will go through the Proof-of-Work smart contract and finally mine a secret reward for your TON wallet.
-
+## My NFT Info
+https://testnet.tonviewer.com/kQD-Dp-uUqldbNLEOPz8zW9RdBCcKfyL24FCAu-6qHMlsQub
 ## Who already completed the challenge?
 
 NFT Collection on GetGems with True TVM Developers:
